@@ -1,0 +1,2 @@
+import Noob
+noob.DHIRAJ()
